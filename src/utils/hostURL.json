@@ -1,0 +1,6 @@
+{
+    "BASE_URL":"http://localhost:3000/usuario",
+    "BASE_TIP_SERVICIO_URL":"http://localhost:3000/tipo_servicio",
+    "BASE_SERVICIO_URL":"http://localhost:3000/servicio",
+    "BASE_ACEPTARSERVICIO_URL":"http://localhost:3000/aceptar-servicio"
+}

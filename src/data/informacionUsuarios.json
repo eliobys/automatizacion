@@ -1,0 +1,14 @@
+{
+    "nombre":"Cristian",
+    "opcionRol": "hacedor",
+    "apellido": "perez",
+    "tipoDeDocumento": 12345698,
+    "cedula": 55663584,
+    "correoelectronico":"eliobys34@gmail.com",
+    "direccion":"calle34#54-52",
+    "contraseña":145463565,
+    "ciudadderesidencia" :"monteria",
+    "opcionhabilidad" : "pasear perro",
+    "numerodetelefono": 5483655132
+
+}
